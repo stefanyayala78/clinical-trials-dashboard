@@ -1,7 +1,5 @@
 ## Clinical Trial Recruitment Intelligence Dashboard
 
-### Project Overview
-
 The Clinical Trial Recruitment Intelligence Dashboard is a Python-based desktop application developed to support patient pre-screening process and data management across multiple clinical trials.
 
 The application enables clinical research site staff to create customized study databases, organize potential participant information according to study-specific inclusion criteria, and monitor recruitment metrics through an interactive dashboard.
@@ -21,16 +19,16 @@ The application enables clinical research site staff to create customized study 
 - **ttkbootstrap:** Interface styling and visual components.
 - **SQLite:** Relational database management.
 
-### Project Documentation
+### Project Overview & User Guide
 
-The repository includes the Python source code, a sample database, and the complete final project report, which contains screenshots, installation instructions, a description of the data model, and a walkthrough of the application's main functionalities.
+The PDF below contains information about the technologies used, database structure, installation instructions, and a step-by-step guide with screenshots illustrating the application's functionalities.
 
-[**View Full Project Documentation (PDF)**](Final%20Project_Clinical%20Trials%20Dashboard_08Jul2026.pdf)
+[**View Project Documentation and User Guide (PDF)**](https://github.com/stefanyayala78/clinical-trials-dashboard/blob/main/Final%20Project_Clinical%20Trials%20Dashboard_08Jul2026.pdf)
 
 ### Future Enhancements
 
-Potential improvements include automated assessment of study-specific inclusion criteria, Excel data import, and patient matching across multiple clinical trials.
+Potential improvements include automatic evaluation of inclusion criteria, Excel data import, and patient matching across multiple clinical trials.
 
 ### Academic Context
 
-Developed as the final project of the Python Programming program at Tokio School, applying programming and database management concepts to clinical research workflows.
+Developed as the final project of the Python Programming program at Tokio School.
