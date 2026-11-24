@@ -2,22 +2,17 @@
 
 The Clinical Trial Recruitment Intelligence Dashboard is a Python-based desktop application developed to support patient pre-screening process and data management across multiple clinical trials.
 
-The application enables clinical research site staff to create customized study databases, organize potential participant information according to study-specific inclusion criteria, and monitor recruitment metrics through an interactive dashboard.
-
 ### Key Features
 
-- **Study Database Management:** Create customized databases for individual clinical trials, with data fields tailored to their specific inclusion criteria.
-- **Participant Data Management:** Add, edit, and delete potential participant records, with automatically generated subject IDs.
-- **Interactive Dashboard:** Visualize key metrics, including the total number of studies, active studies, and average number of potential participants per study.
-- **Dynamic Updates:** Automatically update dashboard metrics as studies and participant records are added.
-- **User Authentication:** Create user accounts and access the application through a login interface.
+- Create customized databases for individual clinical trials, with data fields tailored to their specific inclusion criteria.
+- Add, edit, and delete potential participant records, with automatically generated subject IDs.
+- Visualize key metrics, including the total number of studies, active studies, and average number of potential participants per study.
+- Automatically update dashboard metrics as studies and participant records are added.
+- Create user accounts and access the application through a login interface.
 
-### Technologies Used
+### Development Tools
 
-- **Python:** Core programming language.
-- **Tkinter:** Desktop graphical user interface development.
-- **ttkbootstrap:** Interface styling and visual components.
-- **SQLite:** Relational database management.
+Python · Tkinter · ttkbootstrap · SQLite
 
 ### Project Overview & User Guide
 
