@@ -1,4 +1,4 @@
-# Clinical Trial Recruitment Intelligence Dashboard
+## Clinical Trial Recruitment Intelligence Dashboard
 
 ### Project Overview
 
