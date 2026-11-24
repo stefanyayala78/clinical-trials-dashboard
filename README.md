@@ -1,4 +1,5 @@
-## Clinical Trial Recruitment Intelligence Dashboard
+
+# Clinical Trial Recruitment Intelligence Dashboard 
 
 The Clinical Trial Recruitment Intelligence Dashboard is a Python-based desktop application developed to support patient pre-screening process and data management across multiple clinical trials.
 
@@ -24,6 +25,6 @@ The PDF below contains information about the technologies used, database structu
 
 Potential improvements include automatic evaluation of inclusion criteria, Excel data import, and patient matching across multiple clinical trials.
 
-### Academic Context
+---
 
-Developed as the final project of the Python Programming program at Tokio School.
+Developed as the final project of the Python course at Tokio School.
